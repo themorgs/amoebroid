@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Amoebroid</string>
-    <string name="edit_message">Go East?</string>
-    <string name="send_button">Send</string>
+    <string name="edit_message">What do you want to do?</string>
+    <string name="send_button">Go</string>
+    <string name="new_game">Start New</string>
+    <string name="help">Help</string>
+    <string name="load_game">Load Game</string>
+    <string name="file">File</string>
 </resources>

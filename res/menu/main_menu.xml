@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/file"
+          android:title="@string/file"
+          android:showAsAction="ifRoom">
+        <menu>
+            <item android:id="@+id/new_game"
+              android:icon="@drawable/hardware_gamepad"
+              android:title="@string/new_game"/>
+            <item android:id="@+id/load_game"
+              android:title="@string/load_game"/>
+        </menu>
+    </item>
+    <item android:id="@+id/help"
+          android:title="@string/help" />
+</menu>
